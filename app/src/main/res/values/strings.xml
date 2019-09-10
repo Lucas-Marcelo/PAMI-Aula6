@@ -1,0 +1,11 @@
+<resources>
+
+    /*Primeira Activity*/
+    <string name="app_name">Aula6</string>
+    <string name="lblPrimeiraActivity">Está é a PRIMEIRA Activity</string>
+    <string name="btnProximaActivity">Próxima Activity</string>
+
+    /*Segunda Activity*/
+    <string name="lblSegundaActivity">Está é a SEGUNDA Activity</string>
+
+</resources>
